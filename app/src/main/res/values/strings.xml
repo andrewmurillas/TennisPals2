@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tennis Pals</string>
+    <string name="signup_user_name_title">Choose a user name</string>
+    <string name="user_name_input">User Name</string>
+    <string name="name_input_title">Whats your name?</string>
+    <string name="name_input_hint">Name</string>
+    <string name="second_name_title">And your second name?</string>
+    <string name="second_name_hint">Second Name</string>
+    <string name="age_input_title">How old are you?</string>
+    <string name="age_input_hint">Age</string>
+    <string name="password_input_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="go_to_sign_up">DON\'T HAVE AN ACCOUNT? SIGN UP</string>
+    <string name="go_to_login">AlREADY HAVE AN ACCOUNT? SIGN IN</string>
+    <string name="error">SOMETHING WHEN\'T WRONG, PLEASE TRY AGAIN</string>
+    <string name="login_no_email">PLEASE ENTER EMAIL</string>
+    <string name="login_no_password">PLEASE ENTER PASSWORD</string>
+    <string name="level1">j</string>
+    <string name="level2">d</string>
+    <string name="level3">o</string>
+    <string name="level4">p</string>
+    <string name="level5">y</string>
+    <string name="logo_credit_author">Icons made by a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons/a> from a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com/a></string>
+</resources>

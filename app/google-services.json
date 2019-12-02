@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432674933784",
+    "firebase_url": "https://tennis-pals-824bb.firebaseio.com",
+    "project_id": "tennis-pals-824bb",
+    "storage_bucket": "tennis-pals-824bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432674933784:android:5ba69616429091136ac76d",
+        "android_client_info": {
+          "package_name": "com.example.tennispals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432674933784-94gn7a57df9oadpl84ob1t52v8vhcp5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tennispals",
+            "certificate_hash": "4598139ce2483d3f648f98c8a2de7c0596b231b4"
+          }
+        },
+        {
+          "client_id": "432674933784-btob9svjfrb75l1ishdcr3tut55gl89t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89VB9f0RqbUPoHvIzhN1ycFek17Q4dVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432674933784-btob9svjfrb75l1ishdcr3tut55gl89t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
